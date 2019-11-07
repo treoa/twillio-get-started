@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="alice">Thanks for calling ma masta!</Say>
+    <Play>http://www.panacherock.com/downloads/mp3/01_Born_Of_Light.mp3</Play>
+</Response>
